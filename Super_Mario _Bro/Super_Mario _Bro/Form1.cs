@@ -95,5 +95,15 @@ namespace Super_Mario__Bro
                 }
             }
         }
+
+        private void door_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void background_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
